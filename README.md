@@ -18,8 +18,6 @@ After making a successful donation the person will be given some credits which c
 
 ## A Step Towards A Better Society
 
-![Screenshot_20210803-230600](https://user-images.githubusercontent.com/77498865/129719867-4d01c766-e197-4c8f-8dc6-c8991ae80634.png)
-
 #### The medium will provide the following benefits :
 
 - Ensuring the under-privileged get enough clothing
